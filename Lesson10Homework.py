@@ -10,6 +10,8 @@
 
 #Дэвид Бизли - соотв. лекция
 
+#https://www.youtube.com/watch?v=ys8lW8eQaJQ
+
 import socket
 
 HOST = ''   # Symbolic name, meaning all available interfaces
